@@ -23,18 +23,13 @@ Make sure you have Node.js and npm (or yarn) installed on your local machine.
 
 2. Install dependencies:
 bash
-Copy code
-npm install
-# or
+
 yarn install
 
 3. Development
 To start the development server:
 
 bash
-Copy code
-npm run dev
-# or
 yarn dev
 Open http://localhost:3000 with your browser to see the result.
 

@@ -1,13 +1,17 @@
 "use client"
 import { useState } from 'react';
+
 // import components 
 import RecipeReviewCard from "@/components/Card";
 import DisscussFormCard from "@/components/DisscussionFormCard";
+
 
 const HomePage = () => {
   const [activeTab, setActiveTab] = useState('discussion'); 
 
   return (
+    <div>
+      
     <div className="container   mx-auto ">
       <div className="lg:flex gap-5">
 
@@ -46,6 +50,7 @@ const HomePage = () => {
           {activeTab === 'recipes' && <RecipeReviewCard />}
         </div>
       </div>
+    </div>
     </div>
   );
 };
