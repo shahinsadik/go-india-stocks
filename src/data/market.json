@@ -1,0 +1,21 @@
+[
+    {
+      "_id": "1",
+      "img": "https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=612x612&w=0&k=20&c=i3R3cbE94hdu6PRWT7cQBStY_wknVzl2pFCjQppzTBg=",
+      "title": "Beautiful Sunset",
+      "des": "A stunning view of the sunset over the horizon. Sunsets are one of the most extraordinary natural phenomena - a sunset view is never dull. My photos of beautiful sunsets around the world."
+    },
+    {
+      "_id": "2",
+      "img": "https://media.istockphoto.com/id/157439341/photo/forest-illuminated-by-the-rising-sun.jpg?s=612x612&w=0&k=20&c=8BijFE4Hxgmnp6Y8hYOkL5YSzkKSejH619PQRoRL_K0=",
+      "title": "Lush Green Forest",
+      "des": "A dense forest with vibrant greenery and tall trees. Nice sanctuary with nominal fee and is near by Kufri. One can see snow leopard, deer and some other animals. The most difficult part ."
+    },
+    {
+      "_id": "3",
+      "img": "https://media.istockphoto.com/id/471926619/photo/moraine-lake-at-sunrise-banff-national-park-canada.jpg?s=612x612&w=0&k=20&c=mujiCtVk5QA697SD3d8V8BGmd91-8HlxCNHkolEA0Bo=",
+      "title": "Serene Beach",
+      "des": "A peaceful beach with golden sand and clear blue water. Located in Dar es Salaam, Serene Beach Resort provides beachfront accommodations on a private and beautiful beach."
+    }
+  ]
+  

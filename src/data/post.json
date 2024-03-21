@@ -1,0 +1,46 @@
+[
+    {
+      "postId": 1,
+      "postImg": "https://media.istockphoto.com/id/1143501138/vector/man-face-avatar-with-beard-male-portrait-vector-illustration.jpg?s=612x612&w=0&k=20&c=HeAp29KH_bVT2Gtim05IE9SYouSfpVLzojJ5sk-GrYg=",
+      "postUserName": "John Doe",
+      "category": "Technology",
+      "post": "Discover trendy fashion for all occasions. From casual wear to elegant styles, find your perfect look with our diverse collection.",
+      "timeAgo": "10 min ago",
+      "reactions": 3,
+      "views": 1,
+      "comments": 1
+    },
+    {
+      "postId": 2,
+      "postImg": "https://media.istockphoto.com/id/889902592/vector/young-man-face.jpg?s=612x612&w=0&k=20&c=QZu-xzdOysVK-glSVm7yyx9eOXNYT2CGmfj48O0-oq8=",
+      "postUserName": "Alice Smith",
+      "category": "Science",
+      "post": "Experience the ultimate comfort with our premium home decor. Elevate your space with luxurious designs and quality craftsmanship.",
+      "timeAgo": "20 min ago",
+      "reactions": 5,
+      "views": 2,
+      "comments": 2
+    },
+    {
+      "postId": 3,
+      "postImg": "https://media.istockphoto.com/id/892069620/vector/man-face-cartoon.jpg?s=170667a&w=0&k=20&c=lQL68-OH5dfsG3zOkfuE6lo7o4f5dMwMc-vpAvNSknI=",
+      "postUserName": "Jane Doe",
+      "category": "Fashion",
+      "post": "Indulge in delightful treats for every craving. From decadent chocolates to savory snacks, satisfy your taste buds with our selection.",
+      "timeAgo": "30 min ago",
+      "reactions": 4,
+      "views": 1,
+      "comments": 1
+    },
+    {
+      "postId": 4,
+      "postImg": "https://media.istockphoto.com/id/858087084/vector/young-man-model-avatar-character.jpg?s=612x612&w=0&k=20&c=rJuLG-sle90ASF_846ul07BstmczsmiTy1_KBgmwp9w=",
+      "postUserName": "Bob Smith",
+      "category": "Travel",
+      "post": "Explore the world of gadgets and tech accessories. Stay ahead with cutting-edge innovations and must-have devices for every need.",
+      "timeAgo": "40 min ago",
+      "reactions": 6,
+      "views": 1,
+      "comments": 3
+    }
+  ]
